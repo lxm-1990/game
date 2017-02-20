@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_guaguale"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yixia.camera.game.GuagualeActivity">
+
+    <com.yixia.camera.game.views.GuaGuaKa
+        android:id="@+id/guaguaka"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        app:text="500.0000"
+        app:textSize="22sp"
+        app:textColor="@android:color/holo_red_dark"/>
+</RelativeLayout>
