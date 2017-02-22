@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e69a2250ca05f319d3166a79149863d37550b8e5">
+        sha1="ce99413d209bc836e7705f14b976f05edcc523bc">
         <dex dex="/Users/lxm/Downloads/Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_102a814214a190748e5d0f0fad86894f8a99befc/classes.dex" />
     </item>
     <item
@@ -75,21 +75,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/lxm/Downloads/Game/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f1db58410fc13f3203d890454f3f3411d9eebb37">
-        <dex dex="/Users/lxm/Downloads/Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_17413537eca0bcf52e6cba28b210654b1906e9aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/lxm/Downloads/Game/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
         <dex dex="/Users/lxm/Downloads/Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_14452ab92a411053ba87b7dbc00fb000d3b65541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lxm/Downloads/Game/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4569e1310d6ba0dfb7b4c8c3beb6bc679635848d">
+        <dex dex="/Users/lxm/Downloads/Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_17413537eca0bcf52e6cba28b210654b1906e9aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
