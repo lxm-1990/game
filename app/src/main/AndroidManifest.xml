@@ -18,7 +18,8 @@
         <activity
             android:name=".WuziqiAcitivity"
             android:label="五子棋" />
-        <activity android:name=".GuagualeActivity"></activity>
+        <activity android:name=".GuagualeActivity" />
+        <activity android:name=".PintuActivity"></activity>
     </application>
 
 </manifest>

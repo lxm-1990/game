@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private Button mButton;
     private Button mBtnGuaGuaKa;
+    private Button mBtnPintu;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +32,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mButton.setOnClickListener(this);
         mBtnGuaGuaKa = (Button) findViewById(R.id.btn_guaguale);
         mBtnGuaGuaKa.setOnClickListener(this);
+        mBtnPintu = (Button) findViewById(R.id.btn_pintu);
+        mBtnPintu.setOnClickListener(this);
     }
 
     @Override
@@ -44,6 +47,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent intent1 = new Intent(this,GuagualeActivity.class);
                 startActivity(intent1);
                 break;
+            case R.id.btn_pintu:
+                Intent intent2 = new Intent(this,PintuActivity.class);
+                startActivity(intent2);
         }
     }
 }

@@ -20,4 +20,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/btn_guaguale"
         android:text="刮刮乐"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_pintu"
+        android:text="拼图"/>
 </LinearLayout>
